@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "moremodernstructures",
+  "version": "${version}",
+  "name": "More Modern Structures",
+  "description": "Adds randomly generated modern and futuristic buildings to the world (vanilla blocks only, no conflicts).",
+  "authors": ["byMr712"],
+  "contact": {
+    "homepage": "https://github.com/byMr712"
+  },
+  "license": "MIT",
+  "icon": "assets/moremodernstructures/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.bymr712.moremodernstructures.MoreModernStructures"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": ">=1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

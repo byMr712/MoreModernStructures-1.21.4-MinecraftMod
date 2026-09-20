@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "watchtower_building:fresh_watchtower",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 67,
+    "separation": 48,
+    "salt": 200561070
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "minecraft:plains"
+    },
+    {
+      "id": "minecraft:sunflower_plains"
+    },
+    {
+      "id": "minecraft:snowy_plains"
+    },
+    {
+      "id": "minecraft:savanna"
+    },
+    {
+      "id": "minecraft:savanna_plateau"
+    },
+    {
+      "id": "minecraft:windswept_savanna"
+    },
+    {
+      "id": "minecraft:desert"
+    },
+    {
+      "id": "#minecraft:is_forest"
+    },
+    {
+      "id": "#minecraft:is_taiga"
+    },
+    {
+      "id": "#minecraft:is_hill"
+    },
+    {
+      "id": "#minecraft:is_mountain"
+    },
+    {
+      "id": "minecraft:mushroom_fields"
+    },
+    {
+      "id": "#minecraft:is_badlands"
+    }
+  ]
+}

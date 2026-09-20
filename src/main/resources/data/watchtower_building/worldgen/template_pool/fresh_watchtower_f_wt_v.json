@@ -1,0 +1,17 @@
+{
+  "name": "watchtower_building:fresh_watchtower_f_wt_v",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "watchtower_building:f_wt_v",
+        "projection": "rigid",
+        "processors": {
+          "processors": []
+        }
+      }
+    }
+  ]
+}

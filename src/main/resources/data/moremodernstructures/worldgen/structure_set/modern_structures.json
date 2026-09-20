@@ -1,0 +1,101 @@
+{
+  "structures": [
+    {
+      "structure": "moremodernstructures:modern_villa",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:modern_apartment",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:modern_office",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:modern_showroom",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:modern_mall",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:cat_base",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:wild_tower_1",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:wild_tower_2",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:wild_tower_3",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:wild_tower_4",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:pale_oak_house",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:apartment_building",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:modern_mansion",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:modern_minimalist",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:house",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:home_with_pool",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:pool_slide_house",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:modern_villa_schem",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:library",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:birch_quartz_house",
+      "weight": 1
+    },
+    {
+      "structure": "moremodernstructures:rustic_hut",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 45,
+    "separation": 25,
+    "spread_type": "linear",
+    "salt": 46106058,
+    "frequency_reduction_method": "default",
+    "locate_offset": [
+      2,
+      2,
+      2
+    ]
+  }
+}

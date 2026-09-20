@@ -1,0 +1,29 @@
+{
+  "name": "watchtower_building:abandoned_watchtower",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "watchtower_building:watchtower_base_spawner",
+        "projection": "rigid",
+        "processors": {
+          "processors": [
+            {
+              "processor_type": "minecraft:block_ignore",
+              "blocks": [
+                {
+                  "Name": "minecraft:structure_block"
+                },
+                {
+                  "Name": "minecraft:glass"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
