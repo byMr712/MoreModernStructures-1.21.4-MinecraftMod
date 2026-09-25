@@ -35,3 +35,6 @@ run/
 
 # Windows
 Thumbs.db
+
+# Schematics
+schematics/
