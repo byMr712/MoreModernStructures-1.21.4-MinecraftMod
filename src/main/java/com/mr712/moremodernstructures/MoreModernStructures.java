@@ -1,4 +1,4 @@
-package com.bymr712.moremodernstructures;
+package com.mr712.moremodernstructures;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;

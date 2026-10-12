@@ -18,7 +18,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.bymr712.moremodernstructures.MoreModernStructures"
+      "com.mr712.moremodernstructures.MoreModernStructures"
     ]
   },
   "depends": {
